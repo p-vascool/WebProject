@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-AniVetNetwork-BBB373B5-EF3F-4DBB-B8AA-7152CEC275BF</UserSecretsId>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <CodeAnalysisRuleSet>..\..\Rules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Include="..\..\stylecop.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.9" />
+    <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
+    <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.113" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.9" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.205" PrivateAssets="all">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\AniVetNetwork.Common\AniVetNetwork.Common.csproj" />
+    <ProjectReference Include="..\..\Data\AniVetNetwork.Data.Models\AniVetNetwork.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\AniVetNetwork.Data\AniVetNetwork.Data.csproj" />
+    <ProjectReference Include="..\..\Services\AniVetNetwork.Services.Data\AniVetNetwork.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Services\AniVetNetwork.Services.Mapping\AniVetNetwork.Services.Mapping.csproj" />
+    <ProjectReference Include="..\..\Services\AniVetNetwork.Services.Messaging\AniVetNetwork.Services.Messaging.csproj" />
+    <ProjectReference Include="..\..\Services\AniVetNetwork.Services\AniVetNetwork.Services.csproj" />
+    <ProjectReference Include="..\AniVetNetwork.Web.Infrastructure\AniVetNetwork.Web.Infrastructure.csproj" />
+    <ProjectReference Include="..\AniVetNetwork.Web.ViewModels\AniVetNetwork.Web.ViewModels.csproj" />
+  </ItemGroup>
+</Project>
