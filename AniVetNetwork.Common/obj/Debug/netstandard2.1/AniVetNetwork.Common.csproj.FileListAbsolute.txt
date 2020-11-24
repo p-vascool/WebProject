@@ -1,0 +1,8 @@
+D:\WebProject\WebProject\AniVetNetwork.Common\bin\Debug\netstandard2.1\AniVetNetwork.Common.deps.json
+D:\WebProject\WebProject\AniVetNetwork.Common\bin\Debug\netstandard2.1\AniVetNetwork.Common.dll
+D:\WebProject\WebProject\AniVetNetwork.Common\bin\Debug\netstandard2.1\AniVetNetwork.Common.pdb
+D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.AssemblyInfoInputs.cache
+D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.AssemblyInfo.cs
+D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.csproj.CoreCompileInputs.cache
+D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.dll
+D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.pdb

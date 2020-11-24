@@ -1,0 +1,9 @@
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\bin\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.deps.json
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\bin\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\bin\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.pdb
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\obj\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.csprojAssemblyReference.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\obj\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.AssemblyInfoInputs.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\obj\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.AssemblyInfo.cs
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\obj\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\obj\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Messaging\obj\Debug\netstandard2.1\AniVetNetwork.Services.Messaging.pdb

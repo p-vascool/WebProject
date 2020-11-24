@@ -1,0 +1,9 @@
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\bin\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.deps.json
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\bin\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.dll
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\bin\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.pdb
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\obj\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.csprojAssemblyReference.cache
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\obj\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\obj\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.AssemblyInfo.cs
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\obj\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\obj\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.dll
+D:\WebProject\WebProject\Web\AniVetNetwork.Web.Infrastructure\obj\Debug\netstandard2.1\AniVetNetwork.Web.Infrastructure.pdb

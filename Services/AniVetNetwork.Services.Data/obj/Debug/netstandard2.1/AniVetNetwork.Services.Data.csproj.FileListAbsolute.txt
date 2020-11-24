@@ -1,0 +1,16 @@
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Services.Data.deps.json
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Services.Data.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Services.Data.pdb
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Data.Common.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Data.Models.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Data.Common.pdb
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Data.Models.pdb
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\bin\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.pdb
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\obj\Debug\netstandard2.1\AniVetNetwork.Services.Data.csprojAssemblyReference.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\obj\Debug\netstandard2.1\AniVetNetwork.Services.Data.AssemblyInfoInputs.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\obj\Debug\netstandard2.1\AniVetNetwork.Services.Data.AssemblyInfo.cs
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\obj\Debug\netstandard2.1\AniVetNetwork.Services.Data.csproj.CoreCompileInputs.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\obj\Debug\netstandard2.1\AniVetNetwork.Services.Data.csproj.CopyComplete
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\obj\Debug\netstandard2.1\AniVetNetwork.Services.Data.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Data\obj\Debug\netstandard2.1\AniVetNetwork.Services.Data.pdb

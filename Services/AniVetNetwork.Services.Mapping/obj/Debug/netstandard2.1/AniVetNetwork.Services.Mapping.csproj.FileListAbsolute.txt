@@ -1,0 +1,9 @@
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\bin\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.deps.json
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\bin\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\bin\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.pdb
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\obj\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.csprojAssemblyReference.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\obj\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.AssemblyInfoInputs.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\obj\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.AssemblyInfo.cs
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\obj\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\obj\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.dll
+D:\WebProject\WebProject\Services\AniVetNetwork.Services.Mapping\obj\Debug\netstandard2.1\AniVetNetwork.Services.Mapping.pdb

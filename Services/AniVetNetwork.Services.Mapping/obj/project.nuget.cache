@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajOV3Nefo59Aqe+kI8coXE6djGQMxtBzcQKvqoIy1qDy4KjolMxCRanRPWjOMGDidKWHpEcVHkNSKVoKdZeTZQ==",
+  "success": true,
+  "projectFilePath": "D:\\WebProject\\WebProject\\Services\\AniVetNetwork.Services.Mapping\\AniVetNetwork.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
