@@ -6,3 +6,4 @@ D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNet
 D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.csproj.CoreCompileInputs.cache
 D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.dll
 D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.pdb
+D:\WebProject\WebProject\AniVetNetwork.Common\obj\Debug\netstandard2.1\AniVetNetwork.Common.csprojAssemblyReference.cache
